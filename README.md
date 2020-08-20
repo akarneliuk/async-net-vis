@@ -16,7 +16,7 @@ Created and tested in Python 3.7
 
 ## Supported platforms
 ### Currently
-- Cumulus Linux ({'nos': 'cumulus'})
+- Cumulus Linux `{'nos': 'cumulus'}`
 
 ### Work in progress
 - Arista EOS
@@ -35,7 +35,7 @@ Created and tested in Python 3.7
 [By using this product you accept the license agreement](LICENSE)
 
 ## Want to automate networks like profi?
-If you want to learn how to create such a Python program (and many others), [join our netwotk automation training](https://training.karneliuk.com) 
+If you want to learn how to create such a Python program (and many others), [join our netwotk automation training](http://bit.ly/2mP3SJy) 
 
 ## Dev Log
 Release `0.2.1`:
