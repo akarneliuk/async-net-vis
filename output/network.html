@@ -1,0 +1,108 @@
+<html>
+<head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.16.1/vis.css" type="text/css" />
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.16.1/vis-network.min.js"> </script>
+<center>
+<h1>Connectivity map</h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+
+<style type="text/css">
+
+        #mynetwork {
+            width: 1000px;
+            height: 700px;
+            background-color: #ffffff;
+            border: 1px solid lightgray;
+            position: relative;
+            float: left;
+        }
+
+        
+
+        
+
+        
+</style>
+
+</head>
+
+<body>
+<div id = "mynetwork"></div>
+
+
+<script type="text/javascript">
+
+    // initialize global variables.
+    var edges;
+    var nodes;
+    var network; 
+    var container;
+    var options, data;
+
+    
+    // This method is responsible for drawing the graph, returns the drawn network
+    function drawGraph() {
+        var container = document.getElementById('mynetwork');
+        
+        
+
+        // parsing and collecting nodes and edges from the python
+        nodes = new vis.DataSet([{"group": 2, "id": "H1", "label": "H1", "shape": "dot", "size": 10, "title": "H1"}, {"group": 1, "id": "L1", "label": "L1", "shape": "dot", "size": 10, "title": "L1"}, {"group": 2, "id": "H2", "label": "H2", "shape": "dot", "size": 10, "title": "H2"}, {"group": 1, "id": "L2", "label": "L2", "shape": "dot", "size": 10, "title": "L2"}, {"group": 2, "id": "H3", "label": "H3", "shape": "dot", "size": 10, "title": "H3"}, {"group": 1, "id": "S1", "label": "S1", "shape": "dot", "size": 10, "title": "S1"}, {"group": 1, "id": "E1", "label": "E1", "shape": "dot", "size": 10, "title": "E1"}, {"group": 3, "id": "I1", "label": "I1", "shape": "dot", "size": 10, "title": "I1"}]);
+        edges = new vis.DataSet([{"from": "H1", "title": "swp1 - swp1", "to": "L1", "weight": 1}, {"from": "H2", "title": "swp1 - swp2", "to": "L1", "weight": 1}, {"from": "H2", "title": "swp2 - swp3", "to": "L2", "weight": 1}, {"from": "H3", "title": "swp1 - swp1", "to": "L2", "weight": 1}, {"from": "L1", "title": "swp3 - swp1", "to": "S1", "weight": 1}, {"from": "L1", "title": "swp4 - swp4", "to": "L2", "weight": 1}, {"from": "L2", "title": "swp2 - swp2", "to": "S1", "weight": 1}, {"from": "S1", "title": "swp3 - swp1", "to": "E1", "weight": 1}, {"from": "E1", "title": "swp2 - swp1", "to": "I1", "weight": 1}]);
+
+        // adding nodes and edges to the graph
+        data = {nodes: nodes, edges: edges};
+
+        var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": false,
+            "type": "continuous"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "enabled": true,
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+        
+        
+
+        
+
+        network = new vis.Network(container, data, options);
+
+        
+
+
+        
+
+        return network;
+
+    }
+
+    drawGraph();
+
+</script>
+</body>
+</html>

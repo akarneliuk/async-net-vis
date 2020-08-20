@@ -1,0 +1,26 @@
+---
+- hostname: H1
+  ip_address: 10.0.2.101
+  nos: cumulus
+- hostname: H2
+  ip_address: 10.0.2.102
+  nos: cumulus
+- hostname: H3
+  ip_address: 10.0.2.103
+  nos: cumulus
+- hostname: L1
+  ip_address: 10.0.2.104
+  nos: cumulus
+- hostname: L2
+  ip_address: 10.0.2.105
+  nos: cumulus
+- hostname: S1
+  ip_address: 10.0.2.106
+  nos: cumulus
+- hostname: E1
+  ip_address: 10.0.2.107
+  nos: cumulus
+- hostname: I1
+  ip_address: 10.0.2.108
+  nos: cumulus
+...
