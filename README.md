@@ -41,6 +41,7 @@ If you want to learn how to create such a Python program (and many others), [joi
 Release `0.3.0`:
 - A visualisation now is done in a structured scheme rather than chaotic and using device-specific icons.
 - The execution of the script is now logged and stored. The log file is stored across multiple executions.
+- Minor bug fixing.
 
 Release `0.2.1`:
 - Minor bug fixing.
