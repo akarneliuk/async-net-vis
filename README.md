@@ -38,6 +38,10 @@ Created and tested in Python 3.7
 If you want to learn how to create such a Python program (and many others), [join our netwotk automation training](http://bit.ly/2mP3SJy) 
 
 ## Dev Log
+Release `0.3.0`:
+- A visualisation now is done in a structured scheme rather than chaotic and using device-specific icons.
+- The execution of the script is now logged and stored. The log file is stored across multiple executions.
+
 Release `0.2.1`:
 - Minor bug fixing.
 

@@ -5,7 +5,7 @@
             {
                 "interface": [
                     {
-                        "age": "0 day, 00:09:01",
+                        "age": "0 day, 00:12:00",
                         "chassis": [
                             {
                                 "capability": [
@@ -152,7 +152,7 @@
                         "via": "LLDP"
                     },
                     {
-                        "age": "0 day, 00:08:59",
+                        "age": "0 day, 00:11:57",
                         "chassis": [
                             {
                                 "capability": [
@@ -299,7 +299,7 @@
                         "via": "LLDP"
                     },
                     {
-                        "age": "0 day, 00:08:56",
+                        "age": "0 day, 00:11:54",
                         "chassis": [
                             {
                                 "capability": [
@@ -446,7 +446,7 @@
                         "via": "LLDP"
                     },
                     {
-                        "age": "0 day, 00:08:53",
+                        "age": "0 day, 00:11:51",
                         "chassis": [
                             {
                                 "capability": [
@@ -593,7 +593,7 @@
                         "via": "LLDP"
                     },
                     {
-                        "age": "0 day, 00:08:51",
+                        "age": "0 day, 00:11:49",
                         "chassis": [
                             {
                                 "capability": [
@@ -740,7 +740,7 @@
                         "via": "LLDP"
                     },
                     {
-                        "age": "0 day, 00:08:49",
+                        "age": "0 day, 00:11:45",
                         "chassis": [
                             {
                                 "capability": [
@@ -887,7 +887,7 @@
                         "via": "LLDP"
                     },
                     {
-                        "age": "0 day, 00:08:47",
+                        "age": "0 day, 00:11:41",
                         "chassis": [
                             {
                                 "capability": [
@@ -1034,7 +1034,7 @@
                         "via": "LLDP"
                     },
                     {
-                        "age": "0 day, 00:08:56",
+                        "age": "0 day, 00:11:54",
                         "chassis": [
                             {
                                 "capability": [
@@ -1190,7 +1190,7 @@
             {
                 "interface": [
                     {
-                        "age": "0 day, 00:09:00",
+                        "age": "0 day, 00:11:59",
                         "chassis": [
                             {
                                 "capability": [
@@ -1337,7 +1337,7 @@
                         "via": "LLDP"
                     },
                     {
-                        "age": "0 day, 00:08:58",
+                        "age": "0 day, 00:11:57",
                         "chassis": [
                             {
                                 "capability": [
@@ -1484,7 +1484,7 @@
                         "via": "LLDP"
                     },
                     {
-                        "age": "0 day, 00:08:55",
+                        "age": "0 day, 00:11:54",
                         "chassis": [
                             {
                                 "capability": [
@@ -1631,7 +1631,7 @@
                         "via": "LLDP"
                     },
                     {
-                        "age": "0 day, 00:08:52",
+                        "age": "0 day, 00:11:51",
                         "chassis": [
                             {
                                 "capability": [
@@ -1778,7 +1778,7 @@
                         "via": "LLDP"
                     },
                     {
-                        "age": "0 day, 00:08:50",
+                        "age": "0 day, 00:11:49",
                         "chassis": [
                             {
                                 "capability": [
@@ -1925,7 +1925,7 @@
                         "via": "LLDP"
                     },
                     {
-                        "age": "0 day, 00:08:48",
+                        "age": "0 day, 00:11:45",
                         "chassis": [
                             {
                                 "capability": [
@@ -2072,7 +2072,7 @@
                         "via": "LLDP"
                     },
                     {
-                        "age": "0 day, 00:08:46",
+                        "age": "0 day, 00:11:41",
                         "chassis": [
                             {
                                 "capability": [
@@ -2219,7 +2219,7 @@
                         "via": "LLDP"
                     },
                     {
-                        "age": "0 day, 00:08:43",
+                        "age": "0 day, 00:11:39",
                         "chassis": [
                             {
                                 "capability": [
@@ -2366,7 +2366,7 @@
                         "via": "LLDP"
                     },
                     {
-                        "age": "0 day, 00:08:40",
+                        "age": "0 day, 00:11:38",
                         "chassis": [
                             {
                                 "capability": [
@@ -2522,7 +2522,7 @@
             {
                 "interface": [
                     {
-                        "age": "0 day, 00:08:58",
+                        "age": "0 day, 00:11:57",
                         "chassis": [
                             {
                                 "capability": [
@@ -2669,7 +2669,7 @@
                         "via": "LLDP"
                     },
                     {
-                        "age": "0 day, 00:08:58",
+                        "age": "0 day, 00:11:57",
                         "chassis": [
                             {
                                 "capability": [
@@ -2816,7 +2816,7 @@
                         "via": "LLDP"
                     },
                     {
-                        "age": "0 day, 00:08:55",
+                        "age": "0 day, 00:11:54",
                         "chassis": [
                             {
                                 "capability": [
@@ -2963,7 +2963,7 @@
                         "via": "LLDP"
                     },
                     {
-                        "age": "0 day, 00:08:52",
+                        "age": "0 day, 00:11:51",
                         "chassis": [
                             {
                                 "capability": [
@@ -3110,7 +3110,7 @@
                         "via": "LLDP"
                     },
                     {
-                        "age": "0 day, 00:08:51",
+                        "age": "0 day, 00:11:49",
                         "chassis": [
                             {
                                 "capability": [
@@ -3257,7 +3257,7 @@
                         "via": "LLDP"
                     },
                     {
-                        "age": "0 day, 00:08:49",
+                        "age": "0 day, 00:11:44",
                         "chassis": [
                             {
                                 "capability": [
@@ -3404,7 +3404,7 @@
                         "via": "LLDP"
                     },
                     {
-                        "age": "0 day, 00:08:46",
+                        "age": "0 day, 00:11:40",
                         "chassis": [
                             {
                                 "capability": [
@@ -3551,7 +3551,7 @@
                         "via": "LLDP"
                     },
                     {
-                        "age": "0 day, 00:08:52",
+                        "age": "0 day, 00:11:51",
                         "chassis": [
                             {
                                 "capability": [
@@ -3707,7 +3707,7 @@
             {
                 "interface": [
                     {
-                        "age": "0 day, 00:08:55",
+                        "age": "0 day, 00:11:54",
                         "chassis": [
                             {
                                 "capability": [
@@ -3854,7 +3854,7 @@
                         "via": "LLDP"
                     },
                     {
-                        "age": "0 day, 00:08:55",
+                        "age": "0 day, 00:11:54",
                         "chassis": [
                             {
                                 "capability": [
@@ -3997,11 +3997,11 @@
                                 ]
                             }
                         ],
-                        "rid": "3",
+                        "rid": "2",
                         "via": "LLDP"
                     },
                     {
-                        "age": "0 day, 00:08:55",
+                        "age": "0 day, 00:11:54",
                         "chassis": [
                             {
                                 "capability": [
@@ -4144,11 +4144,11 @@
                                 ]
                             }
                         ],
-                        "rid": "2",
+                        "rid": "3",
                         "via": "LLDP"
                     },
                     {
-                        "age": "0 day, 00:08:52",
+                        "age": "0 day, 00:11:51",
                         "chassis": [
                             {
                                 "capability": [
@@ -4295,7 +4295,7 @@
                         "via": "LLDP"
                     },
                     {
-                        "age": "0 day, 00:08:51",
+                        "age": "0 day, 00:11:49",
                         "chassis": [
                             {
                                 "capability": [
@@ -4442,7 +4442,7 @@
                         "via": "LLDP"
                     },
                     {
-                        "age": "0 day, 00:08:49",
+                        "age": "0 day, 00:11:44",
                         "chassis": [
                             {
                                 "capability": [
@@ -4589,7 +4589,7 @@
                         "via": "LLDP"
                     },
                     {
-                        "age": "0 day, 00:08:46",
+                        "age": "0 day, 00:11:41",
                         "chassis": [
                             {
                                 "capability": [
@@ -4736,7 +4736,7 @@
                         "via": "LLDP"
                     },
                     {
-                        "age": "0 day, 00:08:55",
+                        "age": "0 day, 00:11:54",
                         "chassis": [
                             {
                                 "capability": [
@@ -4879,11 +4879,11 @@
                                 ]
                             }
                         ],
-                        "rid": "2",
+                        "rid": "3",
                         "via": "LLDP"
                     },
                     {
-                        "age": "0 day, 00:08:43",
+                        "age": "0 day, 00:11:38",
                         "chassis": [
                             {
                                 "capability": [
@@ -5030,7 +5030,7 @@
                         "via": "LLDP"
                     },
                     {
-                        "age": "0 day, 00:08:51",
+                        "age": "0 day, 00:11:49",
                         "chassis": [
                             {
                                 "capability": [
@@ -5177,7 +5177,7 @@
                         "via": "LLDP"
                     },
                     {
-                        "age": "0 day, 00:08:52",
+                        "age": "0 day, 00:11:51",
                         "chassis": [
                             {
                                 "capability": [
@@ -5333,7 +5333,7 @@
             {
                 "interface": [
                     {
-                        "age": "0 day, 00:08:52",
+                        "age": "0 day, 00:11:52",
                         "chassis": [
                             {
                                 "capability": [
@@ -5480,7 +5480,7 @@
                         "via": "LLDP"
                     },
                     {
-                        "age": "0 day, 00:08:52",
+                        "age": "0 day, 00:11:52",
                         "chassis": [
                             {
                                 "capability": [
@@ -5623,11 +5623,158 @@
                                 ]
                             }
                         ],
+                        "rid": "3",
+                        "via": "LLDP"
+                    },
+                    {
+                        "age": "0 day, 00:11:52",
+                        "chassis": [
+                            {
+                                "capability": [
+                                    {
+                                        "enabled": true,
+                                        "type": "Bridge"
+                                    },
+                                    {
+                                        "enabled": true,
+                                        "type": "Router"
+                                    }
+                                ],
+                                "descr": [
+                                    {
+                                        "value": "Cumulus Linux version 3.7.11 running on innotek GmbH VirtualBox"
+                                    }
+                                ],
+                                "id": [
+                                    {
+                                        "type": "mac",
+                                        "value": "08:00:27:e8:e9:40"
+                                    }
+                                ],
+                                "mgmt-iface": [
+                                    {
+                                        "value": "1"
+                                    },
+                                    {
+                                        "value": "2"
+                                    }
+                                ],
+                                "mgmt-ip": [
+                                    {
+                                        "value": "10.0.0.11"
+                                    },
+                                    {
+                                        "value": "fe80::a00:27ff:fee8:e940"
+                                    }
+                                ],
+                                "name": [
+                                    {
+                                        "value": "L1"
+                                    }
+                                ]
+                            }
+                        ],
+                        "lldp-med": [
+                            {
+                                "capability": [
+                                    {
+                                        "available": true,
+                                        "type": "Capabilities"
+                                    },
+                                    {
+                                        "available": true,
+                                        "type": "Policy"
+                                    },
+                                    {
+                                        "available": true,
+                                        "type": "Location"
+                                    },
+                                    {
+                                        "available": true,
+                                        "type": "MDI/PSE"
+                                    },
+                                    {
+                                        "available": true,
+                                        "type": "MDI/PD"
+                                    },
+                                    {
+                                        "available": true,
+                                        "type": "Inventory"
+                                    }
+                                ],
+                                "device-type": [
+                                    {
+                                        "value": "Network Connectivity Device"
+                                    }
+                                ],
+                                "inventory": [
+                                    {
+                                        "firmware": [
+                                            {
+                                                "value": "VirtualBox"
+                                            }
+                                        ],
+                                        "manufacturer": [
+                                            {
+                                                "value": "innotek GmbH"
+                                            }
+                                        ],
+                                        "model": [
+                                            {
+                                                "value": "VirtualBox"
+                                            }
+                                        ],
+                                        "serial": [
+                                            {
+                                                "value": "0"
+                                            }
+                                        ],
+                                        "software": [
+                                            {
+                                                "value": "3.7.11"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "name": "eth0",
+                        "port": [
+                            {
+                                "auto-negotiation": [
+                                    {
+                                        "current": [
+                                            {
+                                                "value": "1000BaseTFD - Four-pair Category 5 UTP, full duplex mode"
+                                            }
+                                        ],
+                                        "enabled": false,
+                                        "supported": false
+                                    }
+                                ],
+                                "descr": [
+                                    {
+                                        "value": "eth0"
+                                    }
+                                ],
+                                "id": [
+                                    {
+                                        "type": "ifname",
+                                        "value": "eth0"
+                                    }
+                                ],
+                                "ttl": [
+                                    {
+                                        "value": "120"
+                                    }
+                                ]
+                            }
+                        ],
                         "rid": "4",
                         "via": "LLDP"
                     },
                     {
-                        "age": "0 day, 00:08:52",
+                        "age": "0 day, 00:11:52",
                         "chassis": [
                             {
                                 "capability": [
@@ -5774,154 +5921,7 @@
                         "via": "LLDP"
                     },
                     {
-                        "age": "0 day, 00:08:52",
-                        "chassis": [
-                            {
-                                "capability": [
-                                    {
-                                        "enabled": true,
-                                        "type": "Bridge"
-                                    },
-                                    {
-                                        "enabled": true,
-                                        "type": "Router"
-                                    }
-                                ],
-                                "descr": [
-                                    {
-                                        "value": "Cumulus Linux version 3.7.11 running on innotek GmbH VirtualBox"
-                                    }
-                                ],
-                                "id": [
-                                    {
-                                        "type": "mac",
-                                        "value": "08:00:27:e8:e9:40"
-                                    }
-                                ],
-                                "mgmt-iface": [
-                                    {
-                                        "value": "1"
-                                    },
-                                    {
-                                        "value": "2"
-                                    }
-                                ],
-                                "mgmt-ip": [
-                                    {
-                                        "value": "10.0.0.11"
-                                    },
-                                    {
-                                        "value": "fe80::a00:27ff:fee8:e940"
-                                    }
-                                ],
-                                "name": [
-                                    {
-                                        "value": "L1"
-                                    }
-                                ]
-                            }
-                        ],
-                        "lldp-med": [
-                            {
-                                "capability": [
-                                    {
-                                        "available": true,
-                                        "type": "Capabilities"
-                                    },
-                                    {
-                                        "available": true,
-                                        "type": "Policy"
-                                    },
-                                    {
-                                        "available": true,
-                                        "type": "Location"
-                                    },
-                                    {
-                                        "available": true,
-                                        "type": "MDI/PSE"
-                                    },
-                                    {
-                                        "available": true,
-                                        "type": "MDI/PD"
-                                    },
-                                    {
-                                        "available": true,
-                                        "type": "Inventory"
-                                    }
-                                ],
-                                "device-type": [
-                                    {
-                                        "value": "Network Connectivity Device"
-                                    }
-                                ],
-                                "inventory": [
-                                    {
-                                        "firmware": [
-                                            {
-                                                "value": "VirtualBox"
-                                            }
-                                        ],
-                                        "manufacturer": [
-                                            {
-                                                "value": "innotek GmbH"
-                                            }
-                                        ],
-                                        "model": [
-                                            {
-                                                "value": "VirtualBox"
-                                            }
-                                        ],
-                                        "serial": [
-                                            {
-                                                "value": "0"
-                                            }
-                                        ],
-                                        "software": [
-                                            {
-                                                "value": "3.7.11"
-                                            }
-                                        ]
-                                    }
-                                ]
-                            }
-                        ],
-                        "name": "eth0",
-                        "port": [
-                            {
-                                "auto-negotiation": [
-                                    {
-                                        "current": [
-                                            {
-                                                "value": "1000BaseTFD - Four-pair Category 5 UTP, full duplex mode"
-                                            }
-                                        ],
-                                        "enabled": false,
-                                        "supported": false
-                                    }
-                                ],
-                                "descr": [
-                                    {
-                                        "value": "eth0"
-                                    }
-                                ],
-                                "id": [
-                                    {
-                                        "type": "ifname",
-                                        "value": "eth0"
-                                    }
-                                ],
-                                "ttl": [
-                                    {
-                                        "value": "120"
-                                    }
-                                ]
-                            }
-                        ],
-                        "rid": "3",
-                        "via": "LLDP"
-                    },
-                    {
-                        "age": "0 day, 00:08:51",
+                        "age": "0 day, 00:11:50",
                         "chassis": [
                             {
                                 "capability": [
@@ -6068,7 +6068,7 @@
                         "via": "LLDP"
                     },
                     {
-                        "age": "0 day, 00:08:49",
+                        "age": "0 day, 00:11:45",
                         "chassis": [
                             {
                                 "capability": [
@@ -6215,7 +6215,7 @@
                         "via": "LLDP"
                     },
                     {
-                        "age": "0 day, 00:08:46",
+                        "age": "0 day, 00:11:41",
                         "chassis": [
                             {
                                 "capability": [
@@ -6362,7 +6362,7 @@
                         "via": "LLDP"
                     },
                     {
-                        "age": "0 day, 00:08:52",
+                        "age": "0 day, 00:11:52",
                         "chassis": [
                             {
                                 "capability": [
@@ -6509,7 +6509,7 @@
                         "via": "LLDP"
                     },
                     {
-                        "age": "0 day, 00:08:51",
+                        "age": "0 day, 00:11:50",
                         "chassis": [
                             {
                                 "capability": [
@@ -6656,7 +6656,7 @@
                         "via": "LLDP"
                     },
                     {
-                        "age": "0 day, 00:08:41",
+                        "age": "0 day, 00:11:39",
                         "chassis": [
                             {
                                 "capability": [
@@ -6803,7 +6803,7 @@
                         "via": "LLDP"
                     },
                     {
-                        "age": "0 day, 00:08:52",
+                        "age": "0 day, 00:11:52",
                         "chassis": [
                             {
                                 "capability": [
@@ -6946,7 +6946,7 @@
                                 ]
                             }
                         ],
-                        "rid": "3",
+                        "rid": "4",
                         "via": "LLDP"
                     }
                 ]
@@ -6959,154 +6959,7 @@
             {
                 "interface": [
                     {
-                        "age": "0 day, 00:08:51",
-                        "chassis": [
-                            {
-                                "capability": [
-                                    {
-                                        "enabled": true,
-                                        "type": "Bridge"
-                                    },
-                                    {
-                                        "enabled": true,
-                                        "type": "Router"
-                                    }
-                                ],
-                                "descr": [
-                                    {
-                                        "value": "Cumulus Linux version 3.7.11 running on innotek GmbH VirtualBox"
-                                    }
-                                ],
-                                "id": [
-                                    {
-                                        "type": "mac",
-                                        "value": "08:00:27:11:25:c8"
-                                    }
-                                ],
-                                "mgmt-iface": [
-                                    {
-                                        "value": "1"
-                                    },
-                                    {
-                                        "value": "2"
-                                    }
-                                ],
-                                "mgmt-ip": [
-                                    {
-                                        "value": "10.0.0.22"
-                                    },
-                                    {
-                                        "value": "fe80::a00:27ff:fe11:25c8"
-                                    }
-                                ],
-                                "name": [
-                                    {
-                                        "value": "L2"
-                                    }
-                                ]
-                            }
-                        ],
-                        "lldp-med": [
-                            {
-                                "capability": [
-                                    {
-                                        "available": true,
-                                        "type": "Capabilities"
-                                    },
-                                    {
-                                        "available": true,
-                                        "type": "Policy"
-                                    },
-                                    {
-                                        "available": true,
-                                        "type": "Location"
-                                    },
-                                    {
-                                        "available": true,
-                                        "type": "MDI/PSE"
-                                    },
-                                    {
-                                        "available": true,
-                                        "type": "MDI/PD"
-                                    },
-                                    {
-                                        "available": true,
-                                        "type": "Inventory"
-                                    }
-                                ],
-                                "device-type": [
-                                    {
-                                        "value": "Network Connectivity Device"
-                                    }
-                                ],
-                                "inventory": [
-                                    {
-                                        "firmware": [
-                                            {
-                                                "value": "VirtualBox"
-                                            }
-                                        ],
-                                        "manufacturer": [
-                                            {
-                                                "value": "innotek GmbH"
-                                            }
-                                        ],
-                                        "model": [
-                                            {
-                                                "value": "VirtualBox"
-                                            }
-                                        ],
-                                        "serial": [
-                                            {
-                                                "value": "0"
-                                            }
-                                        ],
-                                        "software": [
-                                            {
-                                                "value": "3.7.11"
-                                            }
-                                        ]
-                                    }
-                                ]
-                            }
-                        ],
-                        "name": "eth0",
-                        "port": [
-                            {
-                                "auto-negotiation": [
-                                    {
-                                        "current": [
-                                            {
-                                                "value": "1000BaseTFD - Four-pair Category 5 UTP, full duplex mode"
-                                            }
-                                        ],
-                                        "enabled": false,
-                                        "supported": false
-                                    }
-                                ],
-                                "descr": [
-                                    {
-                                        "value": "eth0"
-                                    }
-                                ],
-                                "id": [
-                                    {
-                                        "type": "ifname",
-                                        "value": "eth0"
-                                    }
-                                ],
-                                "ttl": [
-                                    {
-                                        "value": "120"
-                                    }
-                                ]
-                            }
-                        ],
-                        "rid": "1",
-                        "via": "LLDP"
-                    },
-                    {
-                        "age": "0 day, 00:08:51",
+                        "age": "0 day, 00:11:49",
                         "chassis": [
                             {
                                 "capability": [
@@ -7253,12 +7106,12 @@
                         "via": "LLDP"
                     },
                     {
-                        "age": "0 day, 00:08:51",
+                        "age": "0 day, 00:11:49",
                         "chassis": [
                             {
                                 "capability": [
                                     {
-                                        "enabled": false,
+                                        "enabled": true,
                                         "type": "Bridge"
                                     },
                                     {
@@ -7274,7 +7127,7 @@
                                 "id": [
                                     {
                                         "type": "mac",
-                                        "value": "08:00:27:0d:56:ee"
+                                        "value": "08:00:27:11:25:c8"
                                     }
                                 ],
                                 "mgmt-iface": [
@@ -7287,15 +7140,15 @@
                                 ],
                                 "mgmt-ip": [
                                     {
-                                        "value": "100.65.1.1"
+                                        "value": "10.0.0.22"
                                     },
                                     {
-                                        "value": "fe80::a00:27ff:fe0d:56ee"
+                                        "value": "fe80::a00:27ff:fe11:25c8"
                                     }
                                 ],
                                 "name": [
                                     {
-                                        "value": "H2"
+                                        "value": "L2"
                                     }
                                 ]
                             }
@@ -7396,11 +7249,11 @@
                                 ]
                             }
                         ],
-                        "rid": "4",
+                        "rid": "2",
                         "via": "LLDP"
                     },
                     {
-                        "age": "0 day, 00:08:51",
+                        "age": "0 day, 00:11:49",
                         "chassis": [
                             {
                                 "capability": [
@@ -7543,11 +7396,11 @@
                                 ]
                             }
                         ],
-                        "rid": "2",
+                        "rid": "1",
                         "via": "LLDP"
                     },
                     {
-                        "age": "0 day, 00:08:51",
+                        "age": "0 day, 00:11:49",
                         "chassis": [
                             {
                                 "capability": [
@@ -7690,11 +7543,158 @@
                                 ]
                             }
                         ],
+                        "rid": "4",
+                        "via": "LLDP"
+                    },
+                    {
+                        "age": "0 day, 00:11:49",
+                        "chassis": [
+                            {
+                                "capability": [
+                                    {
+                                        "enabled": false,
+                                        "type": "Bridge"
+                                    },
+                                    {
+                                        "enabled": true,
+                                        "type": "Router"
+                                    }
+                                ],
+                                "descr": [
+                                    {
+                                        "value": "Cumulus Linux version 3.7.11 running on innotek GmbH VirtualBox"
+                                    }
+                                ],
+                                "id": [
+                                    {
+                                        "type": "mac",
+                                        "value": "08:00:27:0d:56:ee"
+                                    }
+                                ],
+                                "mgmt-iface": [
+                                    {
+                                        "value": "1"
+                                    },
+                                    {
+                                        "value": "2"
+                                    }
+                                ],
+                                "mgmt-ip": [
+                                    {
+                                        "value": "100.65.1.1"
+                                    },
+                                    {
+                                        "value": "fe80::a00:27ff:fe0d:56ee"
+                                    }
+                                ],
+                                "name": [
+                                    {
+                                        "value": "H2"
+                                    }
+                                ]
+                            }
+                        ],
+                        "lldp-med": [
+                            {
+                                "capability": [
+                                    {
+                                        "available": true,
+                                        "type": "Capabilities"
+                                    },
+                                    {
+                                        "available": true,
+                                        "type": "Policy"
+                                    },
+                                    {
+                                        "available": true,
+                                        "type": "Location"
+                                    },
+                                    {
+                                        "available": true,
+                                        "type": "MDI/PSE"
+                                    },
+                                    {
+                                        "available": true,
+                                        "type": "MDI/PD"
+                                    },
+                                    {
+                                        "available": true,
+                                        "type": "Inventory"
+                                    }
+                                ],
+                                "device-type": [
+                                    {
+                                        "value": "Network Connectivity Device"
+                                    }
+                                ],
+                                "inventory": [
+                                    {
+                                        "firmware": [
+                                            {
+                                                "value": "VirtualBox"
+                                            }
+                                        ],
+                                        "manufacturer": [
+                                            {
+                                                "value": "innotek GmbH"
+                                            }
+                                        ],
+                                        "model": [
+                                            {
+                                                "value": "VirtualBox"
+                                            }
+                                        ],
+                                        "serial": [
+                                            {
+                                                "value": "0"
+                                            }
+                                        ],
+                                        "software": [
+                                            {
+                                                "value": "3.7.11"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "name": "eth0",
+                        "port": [
+                            {
+                                "auto-negotiation": [
+                                    {
+                                        "current": [
+                                            {
+                                                "value": "1000BaseTFD - Four-pair Category 5 UTP, full duplex mode"
+                                            }
+                                        ],
+                                        "enabled": false,
+                                        "supported": false
+                                    }
+                                ],
+                                "descr": [
+                                    {
+                                        "value": "eth0"
+                                    }
+                                ],
+                                "id": [
+                                    {
+                                        "type": "ifname",
+                                        "value": "eth0"
+                                    }
+                                ],
+                                "ttl": [
+                                    {
+                                        "value": "120"
+                                    }
+                                ]
+                            }
+                        ],
                         "rid": "5",
                         "via": "LLDP"
                     },
                     {
-                        "age": "0 day, 00:08:49",
+                        "age": "0 day, 00:11:45",
                         "chassis": [
                             {
                                 "capability": [
@@ -7841,7 +7841,7 @@
                         "via": "LLDP"
                     },
                     {
-                        "age": "0 day, 00:08:46",
+                        "age": "0 day, 00:11:41",
                         "chassis": [
                             {
                                 "capability": [
@@ -7988,7 +7988,7 @@
                         "via": "LLDP"
                     },
                     {
-                        "age": "0 day, 00:08:51",
+                        "age": "0 day, 00:11:49",
                         "chassis": [
                             {
                                 "capability": [
@@ -8131,11 +8131,11 @@
                                 ]
                             }
                         ],
-                        "rid": "2",
+                        "rid": "1",
                         "via": "LLDP"
                     },
                     {
-                        "age": "0 day, 00:08:51",
+                        "age": "0 day, 00:11:49",
                         "chassis": [
                             {
                                 "capability": [
@@ -8278,11 +8278,11 @@
                                 ]
                             }
                         ],
-                        "rid": "1",
+                        "rid": "2",
                         "via": "LLDP"
                     },
                     {
-                        "age": "0 day, 00:08:49",
+                        "age": "0 day, 00:11:45",
                         "chassis": [
                             {
                                 "capability": [
@@ -8438,448 +8438,7 @@
             {
                 "interface": [
                     {
-                        "age": "0 day, 00:08:49",
-                        "chassis": [
-                            {
-                                "capability": [
-                                    {
-                                        "enabled": false,
-                                        "type": "Bridge"
-                                    },
-                                    {
-                                        "enabled": true,
-                                        "type": "Router"
-                                    }
-                                ],
-                                "descr": [
-                                    {
-                                        "value": "Cumulus Linux version 3.7.11 running on innotek GmbH VirtualBox"
-                                    }
-                                ],
-                                "id": [
-                                    {
-                                        "type": "mac",
-                                        "value": "08:00:27:c1:e0:e0"
-                                    }
-                                ],
-                                "mgmt-iface": [
-                                    {
-                                        "value": "1"
-                                    },
-                                    {
-                                        "value": "2"
-                                    }
-                                ],
-                                "mgmt-ip": [
-                                    {
-                                        "value": "100.65.1.1"
-                                    },
-                                    {
-                                        "value": "fe80::a00:27ff:fec1:e0e0"
-                                    }
-                                ],
-                                "name": [
-                                    {
-                                        "value": "H3"
-                                    }
-                                ]
-                            }
-                        ],
-                        "lldp-med": [
-                            {
-                                "capability": [
-                                    {
-                                        "available": true,
-                                        "type": "Capabilities"
-                                    },
-                                    {
-                                        "available": true,
-                                        "type": "Policy"
-                                    },
-                                    {
-                                        "available": true,
-                                        "type": "Location"
-                                    },
-                                    {
-                                        "available": true,
-                                        "type": "MDI/PSE"
-                                    },
-                                    {
-                                        "available": true,
-                                        "type": "MDI/PD"
-                                    },
-                                    {
-                                        "available": true,
-                                        "type": "Inventory"
-                                    }
-                                ],
-                                "device-type": [
-                                    {
-                                        "value": "Network Connectivity Device"
-                                    }
-                                ],
-                                "inventory": [
-                                    {
-                                        "firmware": [
-                                            {
-                                                "value": "VirtualBox"
-                                            }
-                                        ],
-                                        "manufacturer": [
-                                            {
-                                                "value": "innotek GmbH"
-                                            }
-                                        ],
-                                        "model": [
-                                            {
-                                                "value": "VirtualBox"
-                                            }
-                                        ],
-                                        "serial": [
-                                            {
-                                                "value": "0"
-                                            }
-                                        ],
-                                        "software": [
-                                            {
-                                                "value": "3.7.11"
-                                            }
-                                        ]
-                                    }
-                                ]
-                            }
-                        ],
-                        "name": "eth0",
-                        "port": [
-                            {
-                                "auto-negotiation": [
-                                    {
-                                        "current": [
-                                            {
-                                                "value": "1000BaseTFD - Four-pair Category 5 UTP, full duplex mode"
-                                            }
-                                        ],
-                                        "enabled": false,
-                                        "supported": false
-                                    }
-                                ],
-                                "descr": [
-                                    {
-                                        "value": "eth0"
-                                    }
-                                ],
-                                "id": [
-                                    {
-                                        "type": "ifname",
-                                        "value": "eth0"
-                                    }
-                                ],
-                                "ttl": [
-                                    {
-                                        "value": "120"
-                                    }
-                                ]
-                            }
-                        ],
-                        "rid": "1",
-                        "via": "LLDP"
-                    },
-                    {
-                        "age": "0 day, 00:08:49",
-                        "chassis": [
-                            {
-                                "capability": [
-                                    {
-                                        "enabled": false,
-                                        "type": "Bridge"
-                                    },
-                                    {
-                                        "enabled": true,
-                                        "type": "Router"
-                                    }
-                                ],
-                                "descr": [
-                                    {
-                                        "value": "Cumulus Linux version 3.7.11 running on innotek GmbH VirtualBox"
-                                    }
-                                ],
-                                "id": [
-                                    {
-                                        "type": "mac",
-                                        "value": "08:00:27:0d:56:ee"
-                                    }
-                                ],
-                                "mgmt-iface": [
-                                    {
-                                        "value": "1"
-                                    },
-                                    {
-                                        "value": "2"
-                                    }
-                                ],
-                                "mgmt-ip": [
-                                    {
-                                        "value": "100.65.1.1"
-                                    },
-                                    {
-                                        "value": "fe80::a00:27ff:fe0d:56ee"
-                                    }
-                                ],
-                                "name": [
-                                    {
-                                        "value": "H2"
-                                    }
-                                ]
-                            }
-                        ],
-                        "lldp-med": [
-                            {
-                                "capability": [
-                                    {
-                                        "available": true,
-                                        "type": "Capabilities"
-                                    },
-                                    {
-                                        "available": true,
-                                        "type": "Policy"
-                                    },
-                                    {
-                                        "available": true,
-                                        "type": "Location"
-                                    },
-                                    {
-                                        "available": true,
-                                        "type": "MDI/PSE"
-                                    },
-                                    {
-                                        "available": true,
-                                        "type": "MDI/PD"
-                                    },
-                                    {
-                                        "available": true,
-                                        "type": "Inventory"
-                                    }
-                                ],
-                                "device-type": [
-                                    {
-                                        "value": "Network Connectivity Device"
-                                    }
-                                ],
-                                "inventory": [
-                                    {
-                                        "firmware": [
-                                            {
-                                                "value": "VirtualBox"
-                                            }
-                                        ],
-                                        "manufacturer": [
-                                            {
-                                                "value": "innotek GmbH"
-                                            }
-                                        ],
-                                        "model": [
-                                            {
-                                                "value": "VirtualBox"
-                                            }
-                                        ],
-                                        "serial": [
-                                            {
-                                                "value": "0"
-                                            }
-                                        ],
-                                        "software": [
-                                            {
-                                                "value": "3.7.11"
-                                            }
-                                        ]
-                                    }
-                                ]
-                            }
-                        ],
-                        "name": "eth0",
-                        "port": [
-                            {
-                                "auto-negotiation": [
-                                    {
-                                        "current": [
-                                            {
-                                                "value": "1000BaseTFD - Four-pair Category 5 UTP, full duplex mode"
-                                            }
-                                        ],
-                                        "enabled": false,
-                                        "supported": false
-                                    }
-                                ],
-                                "descr": [
-                                    {
-                                        "value": "eth0"
-                                    }
-                                ],
-                                "id": [
-                                    {
-                                        "type": "ifname",
-                                        "value": "eth0"
-                                    }
-                                ],
-                                "ttl": [
-                                    {
-                                        "value": "120"
-                                    }
-                                ]
-                            }
-                        ],
-                        "rid": "2",
-                        "via": "LLDP"
-                    },
-                    {
-                        "age": "0 day, 00:08:49",
-                        "chassis": [
-                            {
-                                "capability": [
-                                    {
-                                        "enabled": false,
-                                        "type": "Bridge"
-                                    },
-                                    {
-                                        "enabled": true,
-                                        "type": "Router"
-                                    }
-                                ],
-                                "descr": [
-                                    {
-                                        "value": "Cumulus Linux version 3.7.11 running on innotek GmbH VirtualBox"
-                                    }
-                                ],
-                                "id": [
-                                    {
-                                        "type": "mac",
-                                        "value": "08:00:27:39:b1:12"
-                                    }
-                                ],
-                                "mgmt-iface": [
-                                    {
-                                        "value": "1"
-                                    },
-                                    {
-                                        "value": "2"
-                                    }
-                                ],
-                                "mgmt-ip": [
-                                    {
-                                        "value": "10.0.0.33"
-                                    },
-                                    {
-                                        "value": "fe80::a00:27ff:fe39:b112"
-                                    }
-                                ],
-                                "name": [
-                                    {
-                                        "value": "S1"
-                                    }
-                                ]
-                            }
-                        ],
-                        "lldp-med": [
-                            {
-                                "capability": [
-                                    {
-                                        "available": true,
-                                        "type": "Capabilities"
-                                    },
-                                    {
-                                        "available": true,
-                                        "type": "Policy"
-                                    },
-                                    {
-                                        "available": true,
-                                        "type": "Location"
-                                    },
-                                    {
-                                        "available": true,
-                                        "type": "MDI/PSE"
-                                    },
-                                    {
-                                        "available": true,
-                                        "type": "MDI/PD"
-                                    },
-                                    {
-                                        "available": true,
-                                        "type": "Inventory"
-                                    }
-                                ],
-                                "device-type": [
-                                    {
-                                        "value": "Network Connectivity Device"
-                                    }
-                                ],
-                                "inventory": [
-                                    {
-                                        "firmware": [
-                                            {
-                                                "value": "VirtualBox"
-                                            }
-                                        ],
-                                        "manufacturer": [
-                                            {
-                                                "value": "innotek GmbH"
-                                            }
-                                        ],
-                                        "model": [
-                                            {
-                                                "value": "VirtualBox"
-                                            }
-                                        ],
-                                        "serial": [
-                                            {
-                                                "value": "0"
-                                            }
-                                        ],
-                                        "software": [
-                                            {
-                                                "value": "3.7.11"
-                                            }
-                                        ]
-                                    }
-                                ]
-                            }
-                        ],
-                        "name": "eth0",
-                        "port": [
-                            {
-                                "auto-negotiation": [
-                                    {
-                                        "current": [
-                                            {
-                                                "value": "1000BaseTFD - Four-pair Category 5 UTP, full duplex mode"
-                                            }
-                                        ],
-                                        "enabled": false,
-                                        "supported": false
-                                    }
-                                ],
-                                "descr": [
-                                    {
-                                        "value": "eth0"
-                                    }
-                                ],
-                                "id": [
-                                    {
-                                        "type": "ifname",
-                                        "value": "eth0"
-                                    }
-                                ],
-                                "ttl": [
-                                    {
-                                        "value": "120"
-                                    }
-                                ]
-                            }
-                        ],
-                        "rid": "3",
-                        "via": "LLDP"
-                    },
-                    {
-                        "age": "0 day, 00:08:49",
+                        "age": "0 day, 00:11:45",
                         "chassis": [
                             {
                                 "capability": [
@@ -9022,11 +8581,158 @@
                                 ]
                             }
                         ],
-                        "rid": "4",
+                        "rid": "2",
                         "via": "LLDP"
                     },
                     {
-                        "age": "0 day, 00:08:49",
+                        "age": "0 day, 00:11:45",
+                        "chassis": [
+                            {
+                                "capability": [
+                                    {
+                                        "enabled": false,
+                                        "type": "Bridge"
+                                    },
+                                    {
+                                        "enabled": true,
+                                        "type": "Router"
+                                    }
+                                ],
+                                "descr": [
+                                    {
+                                        "value": "Cumulus Linux version 3.7.11 running on innotek GmbH VirtualBox"
+                                    }
+                                ],
+                                "id": [
+                                    {
+                                        "type": "mac",
+                                        "value": "08:00:27:0d:56:ee"
+                                    }
+                                ],
+                                "mgmt-iface": [
+                                    {
+                                        "value": "1"
+                                    },
+                                    {
+                                        "value": "2"
+                                    }
+                                ],
+                                "mgmt-ip": [
+                                    {
+                                        "value": "100.65.1.1"
+                                    },
+                                    {
+                                        "value": "fe80::a00:27ff:fe0d:56ee"
+                                    }
+                                ],
+                                "name": [
+                                    {
+                                        "value": "H2"
+                                    }
+                                ]
+                            }
+                        ],
+                        "lldp-med": [
+                            {
+                                "capability": [
+                                    {
+                                        "available": true,
+                                        "type": "Capabilities"
+                                    },
+                                    {
+                                        "available": true,
+                                        "type": "Policy"
+                                    },
+                                    {
+                                        "available": true,
+                                        "type": "Location"
+                                    },
+                                    {
+                                        "available": true,
+                                        "type": "MDI/PSE"
+                                    },
+                                    {
+                                        "available": true,
+                                        "type": "MDI/PD"
+                                    },
+                                    {
+                                        "available": true,
+                                        "type": "Inventory"
+                                    }
+                                ],
+                                "device-type": [
+                                    {
+                                        "value": "Network Connectivity Device"
+                                    }
+                                ],
+                                "inventory": [
+                                    {
+                                        "firmware": [
+                                            {
+                                                "value": "VirtualBox"
+                                            }
+                                        ],
+                                        "manufacturer": [
+                                            {
+                                                "value": "innotek GmbH"
+                                            }
+                                        ],
+                                        "model": [
+                                            {
+                                                "value": "VirtualBox"
+                                            }
+                                        ],
+                                        "serial": [
+                                            {
+                                                "value": "0"
+                                            }
+                                        ],
+                                        "software": [
+                                            {
+                                                "value": "3.7.11"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "name": "eth0",
+                        "port": [
+                            {
+                                "auto-negotiation": [
+                                    {
+                                        "current": [
+                                            {
+                                                "value": "1000BaseTFD - Four-pair Category 5 UTP, full duplex mode"
+                                            }
+                                        ],
+                                        "enabled": false,
+                                        "supported": false
+                                    }
+                                ],
+                                "descr": [
+                                    {
+                                        "value": "eth0"
+                                    }
+                                ],
+                                "id": [
+                                    {
+                                        "type": "ifname",
+                                        "value": "eth0"
+                                    }
+                                ],
+                                "ttl": [
+                                    {
+                                        "value": "120"
+                                    }
+                                ]
+                            }
+                        ],
+                        "rid": "3",
+                        "via": "LLDP"
+                    },
+                    {
+                        "age": "0 day, 00:11:45",
                         "chassis": [
                             {
                                 "capability": [
@@ -9169,11 +8875,305 @@
                                 ]
                             }
                         ],
+                        "rid": "4",
+                        "via": "LLDP"
+                    },
+                    {
+                        "age": "0 day, 00:11:45",
+                        "chassis": [
+                            {
+                                "capability": [
+                                    {
+                                        "enabled": false,
+                                        "type": "Bridge"
+                                    },
+                                    {
+                                        "enabled": true,
+                                        "type": "Router"
+                                    }
+                                ],
+                                "descr": [
+                                    {
+                                        "value": "Cumulus Linux version 3.7.11 running on innotek GmbH VirtualBox"
+                                    }
+                                ],
+                                "id": [
+                                    {
+                                        "type": "mac",
+                                        "value": "08:00:27:39:b1:12"
+                                    }
+                                ],
+                                "mgmt-iface": [
+                                    {
+                                        "value": "1"
+                                    },
+                                    {
+                                        "value": "2"
+                                    }
+                                ],
+                                "mgmt-ip": [
+                                    {
+                                        "value": "10.0.0.33"
+                                    },
+                                    {
+                                        "value": "fe80::a00:27ff:fe39:b112"
+                                    }
+                                ],
+                                "name": [
+                                    {
+                                        "value": "S1"
+                                    }
+                                ]
+                            }
+                        ],
+                        "lldp-med": [
+                            {
+                                "capability": [
+                                    {
+                                        "available": true,
+                                        "type": "Capabilities"
+                                    },
+                                    {
+                                        "available": true,
+                                        "type": "Policy"
+                                    },
+                                    {
+                                        "available": true,
+                                        "type": "Location"
+                                    },
+                                    {
+                                        "available": true,
+                                        "type": "MDI/PSE"
+                                    },
+                                    {
+                                        "available": true,
+                                        "type": "MDI/PD"
+                                    },
+                                    {
+                                        "available": true,
+                                        "type": "Inventory"
+                                    }
+                                ],
+                                "device-type": [
+                                    {
+                                        "value": "Network Connectivity Device"
+                                    }
+                                ],
+                                "inventory": [
+                                    {
+                                        "firmware": [
+                                            {
+                                                "value": "VirtualBox"
+                                            }
+                                        ],
+                                        "manufacturer": [
+                                            {
+                                                "value": "innotek GmbH"
+                                            }
+                                        ],
+                                        "model": [
+                                            {
+                                                "value": "VirtualBox"
+                                            }
+                                        ],
+                                        "serial": [
+                                            {
+                                                "value": "0"
+                                            }
+                                        ],
+                                        "software": [
+                                            {
+                                                "value": "3.7.11"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "name": "eth0",
+                        "port": [
+                            {
+                                "auto-negotiation": [
+                                    {
+                                        "current": [
+                                            {
+                                                "value": "1000BaseTFD - Four-pair Category 5 UTP, full duplex mode"
+                                            }
+                                        ],
+                                        "enabled": false,
+                                        "supported": false
+                                    }
+                                ],
+                                "descr": [
+                                    {
+                                        "value": "eth0"
+                                    }
+                                ],
+                                "id": [
+                                    {
+                                        "type": "ifname",
+                                        "value": "eth0"
+                                    }
+                                ],
+                                "ttl": [
+                                    {
+                                        "value": "120"
+                                    }
+                                ]
+                            }
+                        ],
+                        "rid": "1",
+                        "via": "LLDP"
+                    },
+                    {
+                        "age": "0 day, 00:11:45",
+                        "chassis": [
+                            {
+                                "capability": [
+                                    {
+                                        "enabled": false,
+                                        "type": "Bridge"
+                                    },
+                                    {
+                                        "enabled": true,
+                                        "type": "Router"
+                                    }
+                                ],
+                                "descr": [
+                                    {
+                                        "value": "Cumulus Linux version 3.7.11 running on innotek GmbH VirtualBox"
+                                    }
+                                ],
+                                "id": [
+                                    {
+                                        "type": "mac",
+                                        "value": "08:00:27:c1:e0:e0"
+                                    }
+                                ],
+                                "mgmt-iface": [
+                                    {
+                                        "value": "1"
+                                    },
+                                    {
+                                        "value": "2"
+                                    }
+                                ],
+                                "mgmt-ip": [
+                                    {
+                                        "value": "100.65.1.1"
+                                    },
+                                    {
+                                        "value": "fe80::a00:27ff:fec1:e0e0"
+                                    }
+                                ],
+                                "name": [
+                                    {
+                                        "value": "H3"
+                                    }
+                                ]
+                            }
+                        ],
+                        "lldp-med": [
+                            {
+                                "capability": [
+                                    {
+                                        "available": true,
+                                        "type": "Capabilities"
+                                    },
+                                    {
+                                        "available": true,
+                                        "type": "Policy"
+                                    },
+                                    {
+                                        "available": true,
+                                        "type": "Location"
+                                    },
+                                    {
+                                        "available": true,
+                                        "type": "MDI/PSE"
+                                    },
+                                    {
+                                        "available": true,
+                                        "type": "MDI/PD"
+                                    },
+                                    {
+                                        "available": true,
+                                        "type": "Inventory"
+                                    }
+                                ],
+                                "device-type": [
+                                    {
+                                        "value": "Network Connectivity Device"
+                                    }
+                                ],
+                                "inventory": [
+                                    {
+                                        "firmware": [
+                                            {
+                                                "value": "VirtualBox"
+                                            }
+                                        ],
+                                        "manufacturer": [
+                                            {
+                                                "value": "innotek GmbH"
+                                            }
+                                        ],
+                                        "model": [
+                                            {
+                                                "value": "VirtualBox"
+                                            }
+                                        ],
+                                        "serial": [
+                                            {
+                                                "value": "0"
+                                            }
+                                        ],
+                                        "software": [
+                                            {
+                                                "value": "3.7.11"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "name": "eth0",
+                        "port": [
+                            {
+                                "auto-negotiation": [
+                                    {
+                                        "current": [
+                                            {
+                                                "value": "1000BaseTFD - Four-pair Category 5 UTP, full duplex mode"
+                                            }
+                                        ],
+                                        "enabled": false,
+                                        "supported": false
+                                    }
+                                ],
+                                "descr": [
+                                    {
+                                        "value": "eth0"
+                                    }
+                                ],
+                                "id": [
+                                    {
+                                        "type": "ifname",
+                                        "value": "eth0"
+                                    }
+                                ],
+                                "ttl": [
+                                    {
+                                        "value": "120"
+                                    }
+                                ]
+                            }
+                        ],
                         "rid": "5",
                         "via": "LLDP"
                     },
                     {
-                        "age": "0 day, 00:08:49",
+                        "age": "0 day, 00:11:45",
                         "chassis": [
                             {
                                 "capability": [
@@ -9320,7 +9320,7 @@
                         "via": "LLDP"
                     },
                     {
-                        "age": "0 day, 00:08:46",
+                        "age": "0 day, 00:11:41",
                         "chassis": [
                             {
                                 "capability": [
@@ -9467,7 +9467,7 @@
                         "via": "LLDP"
                     },
                     {
-                        "age": "0 day, 00:08:49",
+                        "age": "0 day, 00:11:45",
                         "chassis": [
                             {
                                 "capability": [
@@ -9610,11 +9610,11 @@
                                 ]
                             }
                         ],
-                        "rid": "3",
+                        "rid": "1",
                         "via": "LLDP"
                     },
                     {
-                        "age": "0 day, 00:08:46",
+                        "age": "0 day, 00:11:41",
                         "chassis": [
                             {
                                 "capability": [
@@ -9770,595 +9770,7 @@
             {
                 "interface": [
                     {
-                        "age": "0 day, 00:08:46",
-                        "chassis": [
-                            {
-                                "capability": [
-                                    {
-                                        "enabled": false,
-                                        "type": "Bridge"
-                                    },
-                                    {
-                                        "enabled": true,
-                                        "type": "Router"
-                                    }
-                                ],
-                                "descr": [
-                                    {
-                                        "value": "Cumulus Linux version 3.7.11 running on innotek GmbH VirtualBox"
-                                    }
-                                ],
-                                "id": [
-                                    {
-                                        "type": "mac",
-                                        "value": "08:00:27:60:4c:8d"
-                                    }
-                                ],
-                                "mgmt-iface": [
-                                    {
-                                        "value": "1"
-                                    },
-                                    {
-                                        "value": "2"
-                                    }
-                                ],
-                                "mgmt-ip": [
-                                    {
-                                        "value": "100.65.3.1"
-                                    },
-                                    {
-                                        "value": "fe80::a00:27ff:fe60:4c8d"
-                                    }
-                                ],
-                                "name": [
-                                    {
-                                        "value": "H1"
-                                    }
-                                ]
-                            }
-                        ],
-                        "lldp-med": [
-                            {
-                                "capability": [
-                                    {
-                                        "available": true,
-                                        "type": "Capabilities"
-                                    },
-                                    {
-                                        "available": true,
-                                        "type": "Policy"
-                                    },
-                                    {
-                                        "available": true,
-                                        "type": "Location"
-                                    },
-                                    {
-                                        "available": true,
-                                        "type": "MDI/PSE"
-                                    },
-                                    {
-                                        "available": true,
-                                        "type": "MDI/PD"
-                                    },
-                                    {
-                                        "available": true,
-                                        "type": "Inventory"
-                                    }
-                                ],
-                                "device-type": [
-                                    {
-                                        "value": "Network Connectivity Device"
-                                    }
-                                ],
-                                "inventory": [
-                                    {
-                                        "firmware": [
-                                            {
-                                                "value": "VirtualBox"
-                                            }
-                                        ],
-                                        "manufacturer": [
-                                            {
-                                                "value": "innotek GmbH"
-                                            }
-                                        ],
-                                        "model": [
-                                            {
-                                                "value": "VirtualBox"
-                                            }
-                                        ],
-                                        "serial": [
-                                            {
-                                                "value": "0"
-                                            }
-                                        ],
-                                        "software": [
-                                            {
-                                                "value": "3.7.11"
-                                            }
-                                        ]
-                                    }
-                                ]
-                            }
-                        ],
-                        "name": "eth0",
-                        "port": [
-                            {
-                                "auto-negotiation": [
-                                    {
-                                        "current": [
-                                            {
-                                                "value": "1000BaseTFD - Four-pair Category 5 UTP, full duplex mode"
-                                            }
-                                        ],
-                                        "enabled": false,
-                                        "supported": false
-                                    }
-                                ],
-                                "descr": [
-                                    {
-                                        "value": "eth0"
-                                    }
-                                ],
-                                "id": [
-                                    {
-                                        "type": "ifname",
-                                        "value": "eth0"
-                                    }
-                                ],
-                                "ttl": [
-                                    {
-                                        "value": "120"
-                                    }
-                                ]
-                            }
-                        ],
-                        "rid": "1",
-                        "via": "LLDP"
-                    },
-                    {
-                        "age": "0 day, 00:08:46",
-                        "chassis": [
-                            {
-                                "capability": [
-                                    {
-                                        "enabled": true,
-                                        "type": "Bridge"
-                                    },
-                                    {
-                                        "enabled": true,
-                                        "type": "Router"
-                                    }
-                                ],
-                                "descr": [
-                                    {
-                                        "value": "Cumulus Linux version 3.7.11 running on innotek GmbH VirtualBox"
-                                    }
-                                ],
-                                "id": [
-                                    {
-                                        "type": "mac",
-                                        "value": "08:00:27:6e:b1:e7"
-                                    }
-                                ],
-                                "mgmt-iface": [
-                                    {
-                                        "value": "1"
-                                    },
-                                    {
-                                        "value": "2"
-                                    }
-                                ],
-                                "mgmt-ip": [
-                                    {
-                                        "value": "10.0.0.44"
-                                    },
-                                    {
-                                        "value": "fe80::a00:27ff:fe6e:b1e7"
-                                    }
-                                ],
-                                "name": [
-                                    {
-                                        "value": "E1"
-                                    }
-                                ]
-                            }
-                        ],
-                        "lldp-med": [
-                            {
-                                "capability": [
-                                    {
-                                        "available": true,
-                                        "type": "Capabilities"
-                                    },
-                                    {
-                                        "available": true,
-                                        "type": "Policy"
-                                    },
-                                    {
-                                        "available": true,
-                                        "type": "Location"
-                                    },
-                                    {
-                                        "available": true,
-                                        "type": "MDI/PSE"
-                                    },
-                                    {
-                                        "available": true,
-                                        "type": "MDI/PD"
-                                    },
-                                    {
-                                        "available": true,
-                                        "type": "Inventory"
-                                    }
-                                ],
-                                "device-type": [
-                                    {
-                                        "value": "Network Connectivity Device"
-                                    }
-                                ],
-                                "inventory": [
-                                    {
-                                        "firmware": [
-                                            {
-                                                "value": "VirtualBox"
-                                            }
-                                        ],
-                                        "manufacturer": [
-                                            {
-                                                "value": "innotek GmbH"
-                                            }
-                                        ],
-                                        "model": [
-                                            {
-                                                "value": "VirtualBox"
-                                            }
-                                        ],
-                                        "serial": [
-                                            {
-                                                "value": "0"
-                                            }
-                                        ],
-                                        "software": [
-                                            {
-                                                "value": "3.7.11"
-                                            }
-                                        ]
-                                    }
-                                ]
-                            }
-                        ],
-                        "name": "eth0",
-                        "port": [
-                            {
-                                "auto-negotiation": [
-                                    {
-                                        "current": [
-                                            {
-                                                "value": "1000BaseTFD - Four-pair Category 5 UTP, full duplex mode"
-                                            }
-                                        ],
-                                        "enabled": false,
-                                        "supported": false
-                                    }
-                                ],
-                                "descr": [
-                                    {
-                                        "value": "eth0"
-                                    }
-                                ],
-                                "id": [
-                                    {
-                                        "type": "ifname",
-                                        "value": "eth0"
-                                    }
-                                ],
-                                "ttl": [
-                                    {
-                                        "value": "120"
-                                    }
-                                ]
-                            }
-                        ],
-                        "rid": "2",
-                        "via": "LLDP"
-                    },
-                    {
-                        "age": "0 day, 00:08:46",
-                        "chassis": [
-                            {
-                                "capability": [
-                                    {
-                                        "enabled": false,
-                                        "type": "Bridge"
-                                    },
-                                    {
-                                        "enabled": true,
-                                        "type": "Router"
-                                    }
-                                ],
-                                "descr": [
-                                    {
-                                        "value": "Cumulus Linux version 3.7.11 running on innotek GmbH VirtualBox"
-                                    }
-                                ],
-                                "id": [
-                                    {
-                                        "type": "mac",
-                                        "value": "08:00:27:0d:56:ee"
-                                    }
-                                ],
-                                "mgmt-iface": [
-                                    {
-                                        "value": "1"
-                                    },
-                                    {
-                                        "value": "2"
-                                    }
-                                ],
-                                "mgmt-ip": [
-                                    {
-                                        "value": "100.65.1.1"
-                                    },
-                                    {
-                                        "value": "fe80::a00:27ff:fe0d:56ee"
-                                    }
-                                ],
-                                "name": [
-                                    {
-                                        "value": "H2"
-                                    }
-                                ]
-                            }
-                        ],
-                        "lldp-med": [
-                            {
-                                "capability": [
-                                    {
-                                        "available": true,
-                                        "type": "Capabilities"
-                                    },
-                                    {
-                                        "available": true,
-                                        "type": "Policy"
-                                    },
-                                    {
-                                        "available": true,
-                                        "type": "Location"
-                                    },
-                                    {
-                                        "available": true,
-                                        "type": "MDI/PSE"
-                                    },
-                                    {
-                                        "available": true,
-                                        "type": "MDI/PD"
-                                    },
-                                    {
-                                        "available": true,
-                                        "type": "Inventory"
-                                    }
-                                ],
-                                "device-type": [
-                                    {
-                                        "value": "Network Connectivity Device"
-                                    }
-                                ],
-                                "inventory": [
-                                    {
-                                        "firmware": [
-                                            {
-                                                "value": "VirtualBox"
-                                            }
-                                        ],
-                                        "manufacturer": [
-                                            {
-                                                "value": "innotek GmbH"
-                                            }
-                                        ],
-                                        "model": [
-                                            {
-                                                "value": "VirtualBox"
-                                            }
-                                        ],
-                                        "serial": [
-                                            {
-                                                "value": "0"
-                                            }
-                                        ],
-                                        "software": [
-                                            {
-                                                "value": "3.7.11"
-                                            }
-                                        ]
-                                    }
-                                ]
-                            }
-                        ],
-                        "name": "eth0",
-                        "port": [
-                            {
-                                "auto-negotiation": [
-                                    {
-                                        "current": [
-                                            {
-                                                "value": "1000BaseTFD - Four-pair Category 5 UTP, full duplex mode"
-                                            }
-                                        ],
-                                        "enabled": false,
-                                        "supported": false
-                                    }
-                                ],
-                                "descr": [
-                                    {
-                                        "value": "eth0"
-                                    }
-                                ],
-                                "id": [
-                                    {
-                                        "type": "ifname",
-                                        "value": "eth0"
-                                    }
-                                ],
-                                "ttl": [
-                                    {
-                                        "value": "120"
-                                    }
-                                ]
-                            }
-                        ],
-                        "rid": "3",
-                        "via": "LLDP"
-                    },
-                    {
-                        "age": "0 day, 00:08:46",
-                        "chassis": [
-                            {
-                                "capability": [
-                                    {
-                                        "enabled": true,
-                                        "type": "Bridge"
-                                    },
-                                    {
-                                        "enabled": true,
-                                        "type": "Router"
-                                    }
-                                ],
-                                "descr": [
-                                    {
-                                        "value": "Cumulus Linux version 3.7.11 running on innotek GmbH VirtualBox"
-                                    }
-                                ],
-                                "id": [
-                                    {
-                                        "type": "mac",
-                                        "value": "08:00:27:11:25:c8"
-                                    }
-                                ],
-                                "mgmt-iface": [
-                                    {
-                                        "value": "1"
-                                    },
-                                    {
-                                        "value": "2"
-                                    }
-                                ],
-                                "mgmt-ip": [
-                                    {
-                                        "value": "10.0.0.22"
-                                    },
-                                    {
-                                        "value": "fe80::a00:27ff:fe11:25c8"
-                                    }
-                                ],
-                                "name": [
-                                    {
-                                        "value": "L2"
-                                    }
-                                ]
-                            }
-                        ],
-                        "lldp-med": [
-                            {
-                                "capability": [
-                                    {
-                                        "available": true,
-                                        "type": "Capabilities"
-                                    },
-                                    {
-                                        "available": true,
-                                        "type": "Policy"
-                                    },
-                                    {
-                                        "available": true,
-                                        "type": "Location"
-                                    },
-                                    {
-                                        "available": true,
-                                        "type": "MDI/PSE"
-                                    },
-                                    {
-                                        "available": true,
-                                        "type": "MDI/PD"
-                                    },
-                                    {
-                                        "available": true,
-                                        "type": "Inventory"
-                                    }
-                                ],
-                                "device-type": [
-                                    {
-                                        "value": "Network Connectivity Device"
-                                    }
-                                ],
-                                "inventory": [
-                                    {
-                                        "firmware": [
-                                            {
-                                                "value": "VirtualBox"
-                                            }
-                                        ],
-                                        "manufacturer": [
-                                            {
-                                                "value": "innotek GmbH"
-                                            }
-                                        ],
-                                        "model": [
-                                            {
-                                                "value": "VirtualBox"
-                                            }
-                                        ],
-                                        "serial": [
-                                            {
-                                                "value": "0"
-                                            }
-                                        ],
-                                        "software": [
-                                            {
-                                                "value": "3.7.11"
-                                            }
-                                        ]
-                                    }
-                                ]
-                            }
-                        ],
-                        "name": "eth0",
-                        "port": [
-                            {
-                                "auto-negotiation": [
-                                    {
-                                        "current": [
-                                            {
-                                                "value": "1000BaseTFD - Four-pair Category 5 UTP, full duplex mode"
-                                            }
-                                        ],
-                                        "enabled": false,
-                                        "supported": false
-                                    }
-                                ],
-                                "descr": [
-                                    {
-                                        "value": "eth0"
-                                    }
-                                ],
-                                "id": [
-                                    {
-                                        "type": "ifname",
-                                        "value": "eth0"
-                                    }
-                                ],
-                                "ttl": [
-                                    {
-                                        "value": "120"
-                                    }
-                                ]
-                            }
-                        ],
-                        "rid": "4",
-                        "via": "LLDP"
-                    },
-                    {
-                        "age": "0 day, 00:08:46",
+                        "age": "0 day, 00:11:41",
                         "chassis": [
                             {
                                 "capability": [
@@ -10501,11 +9913,11 @@
                                 ]
                             }
                         ],
-                        "rid": "5",
+                        "rid": "1",
                         "via": "LLDP"
                     },
                     {
-                        "age": "0 day, 00:08:46",
+                        "age": "0 day, 00:11:41",
                         "chassis": [
                             {
                                 "capability": [
@@ -10648,11 +10060,158 @@
                                 ]
                             }
                         ],
-                        "rid": "6",
+                        "rid": "2",
                         "via": "LLDP"
                     },
                     {
-                        "age": "0 day, 00:08:46",
+                        "age": "0 day, 00:11:41",
+                        "chassis": [
+                            {
+                                "capability": [
+                                    {
+                                        "enabled": true,
+                                        "type": "Bridge"
+                                    },
+                                    {
+                                        "enabled": true,
+                                        "type": "Router"
+                                    }
+                                ],
+                                "descr": [
+                                    {
+                                        "value": "Cumulus Linux version 3.7.11 running on innotek GmbH VirtualBox"
+                                    }
+                                ],
+                                "id": [
+                                    {
+                                        "type": "mac",
+                                        "value": "08:00:27:11:25:c8"
+                                    }
+                                ],
+                                "mgmt-iface": [
+                                    {
+                                        "value": "1"
+                                    },
+                                    {
+                                        "value": "2"
+                                    }
+                                ],
+                                "mgmt-ip": [
+                                    {
+                                        "value": "10.0.0.22"
+                                    },
+                                    {
+                                        "value": "fe80::a00:27ff:fe11:25c8"
+                                    }
+                                ],
+                                "name": [
+                                    {
+                                        "value": "L2"
+                                    }
+                                ]
+                            }
+                        ],
+                        "lldp-med": [
+                            {
+                                "capability": [
+                                    {
+                                        "available": true,
+                                        "type": "Capabilities"
+                                    },
+                                    {
+                                        "available": true,
+                                        "type": "Policy"
+                                    },
+                                    {
+                                        "available": true,
+                                        "type": "Location"
+                                    },
+                                    {
+                                        "available": true,
+                                        "type": "MDI/PSE"
+                                    },
+                                    {
+                                        "available": true,
+                                        "type": "MDI/PD"
+                                    },
+                                    {
+                                        "available": true,
+                                        "type": "Inventory"
+                                    }
+                                ],
+                                "device-type": [
+                                    {
+                                        "value": "Network Connectivity Device"
+                                    }
+                                ],
+                                "inventory": [
+                                    {
+                                        "firmware": [
+                                            {
+                                                "value": "VirtualBox"
+                                            }
+                                        ],
+                                        "manufacturer": [
+                                            {
+                                                "value": "innotek GmbH"
+                                            }
+                                        ],
+                                        "model": [
+                                            {
+                                                "value": "VirtualBox"
+                                            }
+                                        ],
+                                        "serial": [
+                                            {
+                                                "value": "0"
+                                            }
+                                        ],
+                                        "software": [
+                                            {
+                                                "value": "3.7.11"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "name": "eth0",
+                        "port": [
+                            {
+                                "auto-negotiation": [
+                                    {
+                                        "current": [
+                                            {
+                                                "value": "1000BaseTFD - Four-pair Category 5 UTP, full duplex mode"
+                                            }
+                                        ],
+                                        "enabled": false,
+                                        "supported": false
+                                    }
+                                ],
+                                "descr": [
+                                    {
+                                        "value": "eth0"
+                                    }
+                                ],
+                                "id": [
+                                    {
+                                        "type": "ifname",
+                                        "value": "eth0"
+                                    }
+                                ],
+                                "ttl": [
+                                    {
+                                        "value": "120"
+                                    }
+                                ]
+                            }
+                        ],
+                        "rid": "3",
+                        "via": "LLDP"
+                    },
+                    {
+                        "age": "0 day, 00:11:41",
                         "chassis": [
                             {
                                 "capability": [
@@ -10795,11 +10354,452 @@
                                 ]
                             }
                         ],
+                        "rid": "4",
+                        "via": "LLDP"
+                    },
+                    {
+                        "age": "0 day, 00:11:41",
+                        "chassis": [
+                            {
+                                "capability": [
+                                    {
+                                        "enabled": true,
+                                        "type": "Bridge"
+                                    },
+                                    {
+                                        "enabled": true,
+                                        "type": "Router"
+                                    }
+                                ],
+                                "descr": [
+                                    {
+                                        "value": "Cumulus Linux version 3.7.11 running on innotek GmbH VirtualBox"
+                                    }
+                                ],
+                                "id": [
+                                    {
+                                        "type": "mac",
+                                        "value": "08:00:27:6e:b1:e7"
+                                    }
+                                ],
+                                "mgmt-iface": [
+                                    {
+                                        "value": "1"
+                                    },
+                                    {
+                                        "value": "2"
+                                    }
+                                ],
+                                "mgmt-ip": [
+                                    {
+                                        "value": "10.0.0.44"
+                                    },
+                                    {
+                                        "value": "fe80::a00:27ff:fe6e:b1e7"
+                                    }
+                                ],
+                                "name": [
+                                    {
+                                        "value": "E1"
+                                    }
+                                ]
+                            }
+                        ],
+                        "lldp-med": [
+                            {
+                                "capability": [
+                                    {
+                                        "available": true,
+                                        "type": "Capabilities"
+                                    },
+                                    {
+                                        "available": true,
+                                        "type": "Policy"
+                                    },
+                                    {
+                                        "available": true,
+                                        "type": "Location"
+                                    },
+                                    {
+                                        "available": true,
+                                        "type": "MDI/PSE"
+                                    },
+                                    {
+                                        "available": true,
+                                        "type": "MDI/PD"
+                                    },
+                                    {
+                                        "available": true,
+                                        "type": "Inventory"
+                                    }
+                                ],
+                                "device-type": [
+                                    {
+                                        "value": "Network Connectivity Device"
+                                    }
+                                ],
+                                "inventory": [
+                                    {
+                                        "firmware": [
+                                            {
+                                                "value": "VirtualBox"
+                                            }
+                                        ],
+                                        "manufacturer": [
+                                            {
+                                                "value": "innotek GmbH"
+                                            }
+                                        ],
+                                        "model": [
+                                            {
+                                                "value": "VirtualBox"
+                                            }
+                                        ],
+                                        "serial": [
+                                            {
+                                                "value": "0"
+                                            }
+                                        ],
+                                        "software": [
+                                            {
+                                                "value": "3.7.11"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "name": "eth0",
+                        "port": [
+                            {
+                                "auto-negotiation": [
+                                    {
+                                        "current": [
+                                            {
+                                                "value": "1000BaseTFD - Four-pair Category 5 UTP, full duplex mode"
+                                            }
+                                        ],
+                                        "enabled": false,
+                                        "supported": false
+                                    }
+                                ],
+                                "descr": [
+                                    {
+                                        "value": "eth0"
+                                    }
+                                ],
+                                "id": [
+                                    {
+                                        "type": "ifname",
+                                        "value": "eth0"
+                                    }
+                                ],
+                                "ttl": [
+                                    {
+                                        "value": "120"
+                                    }
+                                ]
+                            }
+                        ],
+                        "rid": "5",
+                        "via": "LLDP"
+                    },
+                    {
+                        "age": "0 day, 00:11:41",
+                        "chassis": [
+                            {
+                                "capability": [
+                                    {
+                                        "enabled": false,
+                                        "type": "Bridge"
+                                    },
+                                    {
+                                        "enabled": true,
+                                        "type": "Router"
+                                    }
+                                ],
+                                "descr": [
+                                    {
+                                        "value": "Cumulus Linux version 3.7.11 running on innotek GmbH VirtualBox"
+                                    }
+                                ],
+                                "id": [
+                                    {
+                                        "type": "mac",
+                                        "value": "08:00:27:60:4c:8d"
+                                    }
+                                ],
+                                "mgmt-iface": [
+                                    {
+                                        "value": "1"
+                                    },
+                                    {
+                                        "value": "2"
+                                    }
+                                ],
+                                "mgmt-ip": [
+                                    {
+                                        "value": "100.65.3.1"
+                                    },
+                                    {
+                                        "value": "fe80::a00:27ff:fe60:4c8d"
+                                    }
+                                ],
+                                "name": [
+                                    {
+                                        "value": "H1"
+                                    }
+                                ]
+                            }
+                        ],
+                        "lldp-med": [
+                            {
+                                "capability": [
+                                    {
+                                        "available": true,
+                                        "type": "Capabilities"
+                                    },
+                                    {
+                                        "available": true,
+                                        "type": "Policy"
+                                    },
+                                    {
+                                        "available": true,
+                                        "type": "Location"
+                                    },
+                                    {
+                                        "available": true,
+                                        "type": "MDI/PSE"
+                                    },
+                                    {
+                                        "available": true,
+                                        "type": "MDI/PD"
+                                    },
+                                    {
+                                        "available": true,
+                                        "type": "Inventory"
+                                    }
+                                ],
+                                "device-type": [
+                                    {
+                                        "value": "Network Connectivity Device"
+                                    }
+                                ],
+                                "inventory": [
+                                    {
+                                        "firmware": [
+                                            {
+                                                "value": "VirtualBox"
+                                            }
+                                        ],
+                                        "manufacturer": [
+                                            {
+                                                "value": "innotek GmbH"
+                                            }
+                                        ],
+                                        "model": [
+                                            {
+                                                "value": "VirtualBox"
+                                            }
+                                        ],
+                                        "serial": [
+                                            {
+                                                "value": "0"
+                                            }
+                                        ],
+                                        "software": [
+                                            {
+                                                "value": "3.7.11"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "name": "eth0",
+                        "port": [
+                            {
+                                "auto-negotiation": [
+                                    {
+                                        "current": [
+                                            {
+                                                "value": "1000BaseTFD - Four-pair Category 5 UTP, full duplex mode"
+                                            }
+                                        ],
+                                        "enabled": false,
+                                        "supported": false
+                                    }
+                                ],
+                                "descr": [
+                                    {
+                                        "value": "eth0"
+                                    }
+                                ],
+                                "id": [
+                                    {
+                                        "type": "ifname",
+                                        "value": "eth0"
+                                    }
+                                ],
+                                "ttl": [
+                                    {
+                                        "value": "120"
+                                    }
+                                ]
+                            }
+                        ],
+                        "rid": "6",
+                        "via": "LLDP"
+                    },
+                    {
+                        "age": "0 day, 00:11:41",
+                        "chassis": [
+                            {
+                                "capability": [
+                                    {
+                                        "enabled": false,
+                                        "type": "Bridge"
+                                    },
+                                    {
+                                        "enabled": true,
+                                        "type": "Router"
+                                    }
+                                ],
+                                "descr": [
+                                    {
+                                        "value": "Cumulus Linux version 3.7.11 running on innotek GmbH VirtualBox"
+                                    }
+                                ],
+                                "id": [
+                                    {
+                                        "type": "mac",
+                                        "value": "08:00:27:0d:56:ee"
+                                    }
+                                ],
+                                "mgmt-iface": [
+                                    {
+                                        "value": "1"
+                                    },
+                                    {
+                                        "value": "2"
+                                    }
+                                ],
+                                "mgmt-ip": [
+                                    {
+                                        "value": "100.65.1.1"
+                                    },
+                                    {
+                                        "value": "fe80::a00:27ff:fe0d:56ee"
+                                    }
+                                ],
+                                "name": [
+                                    {
+                                        "value": "H2"
+                                    }
+                                ]
+                            }
+                        ],
+                        "lldp-med": [
+                            {
+                                "capability": [
+                                    {
+                                        "available": true,
+                                        "type": "Capabilities"
+                                    },
+                                    {
+                                        "available": true,
+                                        "type": "Policy"
+                                    },
+                                    {
+                                        "available": true,
+                                        "type": "Location"
+                                    },
+                                    {
+                                        "available": true,
+                                        "type": "MDI/PSE"
+                                    },
+                                    {
+                                        "available": true,
+                                        "type": "MDI/PD"
+                                    },
+                                    {
+                                        "available": true,
+                                        "type": "Inventory"
+                                    }
+                                ],
+                                "device-type": [
+                                    {
+                                        "value": "Network Connectivity Device"
+                                    }
+                                ],
+                                "inventory": [
+                                    {
+                                        "firmware": [
+                                            {
+                                                "value": "VirtualBox"
+                                            }
+                                        ],
+                                        "manufacturer": [
+                                            {
+                                                "value": "innotek GmbH"
+                                            }
+                                        ],
+                                        "model": [
+                                            {
+                                                "value": "VirtualBox"
+                                            }
+                                        ],
+                                        "serial": [
+                                            {
+                                                "value": "0"
+                                            }
+                                        ],
+                                        "software": [
+                                            {
+                                                "value": "3.7.11"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "name": "eth0",
+                        "port": [
+                            {
+                                "auto-negotiation": [
+                                    {
+                                        "current": [
+                                            {
+                                                "value": "1000BaseTFD - Four-pair Category 5 UTP, full duplex mode"
+                                            }
+                                        ],
+                                        "enabled": false,
+                                        "supported": false
+                                    }
+                                ],
+                                "descr": [
+                                    {
+                                        "value": "eth0"
+                                    }
+                                ],
+                                "id": [
+                                    {
+                                        "type": "ifname",
+                                        "value": "eth0"
+                                    }
+                                ],
+                                "ttl": [
+                                    {
+                                        "value": "120"
+                                    }
+                                ]
+                            }
+                        ],
                         "rid": "7",
                         "via": "LLDP"
                     },
                     {
-                        "age": "0 day, 00:08:46",
+                        "age": "0 day, 00:11:41",
                         "chassis": [
                             {
                                 "capability": [
@@ -10942,7 +10942,7 @@
                                 ]
                             }
                         ],
-                        "rid": "2",
+                        "rid": "5",
                         "via": "LLDP"
                     }
                 ]
