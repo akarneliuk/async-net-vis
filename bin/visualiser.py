@@ -48,13 +48,13 @@ class Topology(object):
             shape = 'image' if image else 'circle'
 
             self.__G.add_node(node_entry['host'], label=node_entry['host'], title=descr,
-                              group=group, shape=shape, image=image, level=group)
+                              group=group, shape=shape, image=image, level=group, size=20)
 
         for node_entry in self.__raw:
             for link_entry in node_entry['lldp'][0]['interface']:
                 if not link_entry['chassis'][0]['name'][0]['value'] in self.__G.adj[node_entry['host']] and link_entry["name"] != 'eth0':
                     self.__G.add_edge(node_entry['host'], link_entry['chassis'][0]['name'][0]['value'], 
-                                      title=f'{link_entry["name"]} - {link_entry["port"][0]["id"][0]["value"]}')
+                                      title=f'{link_entry["name"]} - {link_entry["port"][0]["id"][0]["value"]}', color='lightgreen')
 
     def saveGraph(self, target_file):
         nt = Network(height="700px", width="1000px", heading='Connectivity map', layout=True)
